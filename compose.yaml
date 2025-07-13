@@ -1,6 +1,6 @@
 services:
   aiostreams:
-    image: ghcr.io/viren070/aiostreams:latest
+    image: ghcr.io/0xNahok/MansionIA:latest
     container_name: aiostreams
     restart: unless-stopped
     ports:
